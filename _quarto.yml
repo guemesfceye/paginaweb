@@ -1,0 +1,52 @@
+project:
+  type: website
+
+website:
+  title: ""
+  
+  navbar:
+    logo: Logo_Guemes.png
+  
+    left:
+      - href: index.qmd
+        text: La Güemes
+      - href: propuestas.qmd
+        text: Propuestas
+      - text: Carreras
+        menu:
+        - href: CP.qmd
+          text: Contador Público
+        - href: LAdm.qmd
+          text: Lic. en Administración
+        - href: LEco.qmd
+          text: Lic. en Economía
+        - href: LEyCD.qmd
+          text: Lic. en Estadística y Cs. de Datos
+        - href: LT.qmd
+          text: Lic. en Turismo
+
+    tools:
+      - icon: instagram
+        href: https://www.instagram.com/guemes.fceye?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+
+      - icon: envelope
+        href: "https://mail.google.com/mail/?view=cm&to=guemeseconomicasunr@gmail.com"
+
+      - icon: whatsapp
+        href: https://wa.me/5493417198268
+
+format:
+  html:
+    theme:
+      - darkly
+      - custom.scss
+    fontsize: "1.5rem"
+    linestretch: 1.5
+    linkcolor: brown
+    monobackground: brown
+    
+    css: styles.css
+    toc: true
+
+editor: visual
+

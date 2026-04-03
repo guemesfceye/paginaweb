@@ -1,0 +1,32 @@
+{
+  "about.qmd": {
+    "about.html": "6070c399"
+  },
+  "index.qmd": {
+    "index.html": "a0c38b2d"
+  },
+  "links.qmd": {
+    "links.html": "957d3532"
+  },
+  "propuestas.qmd": {
+    "propuestas.html": "3f6ae6ab"
+  },
+  "news.qmd": {
+    "news.html": "8a343478"
+  },
+  "CP.qmd": {
+    "CP.html": "399f0f90"
+  },
+  "LAdm.qmd": {
+    "LAdm.html": "406d61da"
+  },
+  "LEco.qmd": {
+    "LEco.html": "08b2d24d"
+  },
+  "LEyCD.qmd": {
+    "LEyCD.html": "f87f9352"
+  },
+  "LT.qmd": {
+    "LT.html": "5a80d6c1"
+  }
+}
