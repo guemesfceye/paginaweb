@@ -7,7 +7,7 @@
     "contents": "",
     "dirty": false,
     "created": 1775279178231.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 1,
     "properties": {
         "rmdVisualMode": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "37:0",
+        "rmdVisualModeLocation": "5:0",
         "cursorPosition": "0,0",
-        "scrollLine": "3"
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1775280128,
+    "lastKnownWriteTime": 1775283872,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1775280128070,
+    "last_content_update": 1775283872605,
     "read_only": false,
     "read_only_alternatives": []
 }
