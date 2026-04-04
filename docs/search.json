@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "¿Qué es la Güemes?",
+    "objectID": "LT.html",
+    "href": "LT.html",
+    "title": "Licenciatura en Turismo",
     "section": "",
-    "text": "La agrupacuión “Martín Miguel de Güemes” nace para transformar el status quo de nuestra facultad.\nCreemos que las Ciencias Económicas son Ciencias Sociales y, por lo tanto, inherentemente políticas. Lo que pasa dentro de la facultad tiene que ver con lo que pasa afuera, y como futuros profesionales no podemos ser ajenos a la realidad del país.\nMientras las agrupaciones tradicionales se limitan al asistencialismo, promesas de campaña y discusiones menores, nosotros creemos que hay problemas de fondo que necesitan respuesta:\n\nDiscusión estudiantil de los planes de estudio\nConcursos docentes sin participación del estudiantado ni representación efectiva de los mismos\nMaterias con horarios de cursada incompatibles con el trabajo\nFalta de herramientas prácticas para el ejercicio profesional\n\n\nDEFENDEMOS UNS UNIVERSIDAD PÚBLICA, GRATUITA Y DE CALIDAD COMO HERRAMIENTA FUNDAMENTAL DE MOVILIDAD SOCIAL, Y SOSTENEMOS LOS VALORES DE LA JUSTICIA SOCIAL, LA INDEPENDENCIA ECONÓMICA Y LA SOBERANÍA POLÍTICA.\nEl paso por la facultad es un hecho trascendental para el resto de la vida, por eso queremos que todos salgamos excelentemente formados y plenamente consientes del rol que será nuestro deber cumplir para con la sociedad."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "La Licenciatura en Turismo es la primera carrera de la UNR en dictarse entre dos Facultades: Ciencias Políticas y RRII, y la Facultad de Ciencias Económicas y Estadística. Su finalidad es la formación de graduados con capacidad para planificar, diseñar, programar, administrar y gestionar actividades y emprendimientos relacionados con los campos disciplinares vinculados al turismo desde una perspectiva interdisciplinar, así como brindar asistencia a entidades públicas y privadas, generando nuevos conocimientos vinculados a la actividad turística."
   },
   {
     "objectID": "propuestas.html",
@@ -19,13 +12,6 @@
     "title": "Propuestas 2026",
     "section": "",
     "text": "Reformar “Introducción a la Matemática” apuntando a la excelencia académica complementando con tutorías.\nGarantizar la digitalización del material de todas las materias para aliviar el bolsillo de los estudiantes.\nCrear un Sistema de Licencias Especiales para exámenes para estudiantes trabajadores.\nAdecuación y mejora de los planes de estudio.\nReforma y reacondicionamiento de espacios de encuentro, estudio y aquellos con valor históricos de la facultad.\nCrear y garantizar canales de comunicación institucionales para evitar la monopolización de la información por parte de las agrupaciones."
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "GÜEMES FCEYE",
-    "section": "",
-    "text": "Holaa"
   },
   {
     "objectID": "propuestas.html#propuestas-generales",
@@ -42,11 +28,25 @@
     "text": "Propuestas por carrera\n\nContador Público\n\nIntegradores y parciales en horarios de cursada de cada comisión.\nIntegrar a la carrera la enseñanza de software y programas de uso profesional, evitando la necesidad de pagar cursos por fuera de las cátedras por contenido esencial.\nGarantizar comisiones de cursado virtual para materias de, al menos, 1er y 2do año. Con prioridad para aquellos estudiantes que trabajan.\n\n\n\nLicenciatura en Administración\n\nEspecializaciones y ramificaciones de la carrera en el contexto de la actualización de los planes de estudio.\n\n\n\nLicenciatura en Estadística y Ciencia de Datos\n\nReformar el plan de estudio para evitar la acumulación de contenidos en materias. Este último problema generado en el acortamiento de ambas carreras a 4 años.\nSimplificar los canales de comunicación y generar medios institucionales para poder estar al día sobre las novedades de ambas carreras."
   },
   {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "Biblioteca Virtual",
+    "objectID": "LEyCD.html",
+    "href": "LEyCD.html",
+    "title": "Licenciatura en Estadística",
     "section": "",
-    "text": "Ciencias Económicas\n(Contador Público, Lic. en Administración y Lic. en Economía)\nPlan:\nlink:\n\n\nEstadística y Ciencia de Datos\nPlan:\nlink:\n\n\nTurismo\nPlan:\nlink:"
+    "text": "Licenciatura en Estadística\nEl objeto de la profesión refiere a la obtención y el tratamiento de la información relativa a los más variados aspectos de la realidad. La misma comprende el diseño de metodologías para recoger, sintetizar y modelar información cuantitativa de fenómenos aleatorios diversos ofreciendo un método de juicio racional y científico. Asimismo nutre sus conocimientos a partir del trabajo interdisciplinario.\n\n\nLicenciatura en Ciencia de Datos\nEl graduado posee una formación básica en matemática, estadística, ciencia de datos y programación, que le permite colaborar en tareas de procesamiento y análisis primarios de datos. Es capaz de asistir a profesionales en la aplicación de métodos estadísticos inferenciales y modelos predictivos, y puede interpretar resultados y comunicar hallazgos de manera clara. Puede integrar equipos multidisciplinarios, participando en proyectos que persiguen la resolución de problemas en base al análisis de datos en diversas áreas, desde la industria hasta la investigación científica.\n\n\nPlanes de Estudio\nPlanes 2024"
+  },
+  {
+    "objectID": "LAdm.html",
+    "href": "LAdm.html",
+    "title": "Licenciatura en Administración",
+    "section": "",
+    "text": "El objeto de la profesión es formar profesionales capaces de: diseñar e implementar herramientas profesionales eficientes para las organizaciones en pos del cumplimiento de sus objetivos y metas. Planificar, organizar, coordinar y controlar las actividades a tal fin. Gestionar estratégicamente las tecnologías de la información. Procurar la administración eficiente de los recursos disponibles para el crecimiento y el desarrollo sostenible de las organizaciones y la sociedad en su conjunto.\n\n\nPlan 2019"
+  },
+  {
+    "objectID": "LAdm.html#planes-de-estudio",
+    "href": "LAdm.html#planes-de-estudio",
+    "title": "Licenciatura en Administración",
+    "section": "",
+    "text": "Plan 2019"
   },
   {
     "objectID": "CP.html",
@@ -54,27 +54,6 @@
     "title": "Contador Público",
     "section": "",
     "text": "El objeto de la profesión refiere a la acción sistemática y especializada, para terceros y hacia el interior de las organizaciones públicas y privadas, para emitir juicios fundados, documentar, dar fe pública, para la toma de decisiones y resolución de problemas vinculados con: diseño e implementación de sistemas contables de información y control, realización de estudios sobre la situación patrimonial, económica y financiera de las organizaciones. Asimismo comprende el asesoramiento comercial, laboral, impositivo y la actuación en el ámbito judicial en materias de su competencia.\n\n\nPlan 2018"
-  },
-  {
-    "objectID": "LT.html",
-    "href": "LT.html",
-    "title": "Licenciatura en Turismo",
-    "section": "",
-    "text": "La Licenciatura en Turismo es la primera carrera de la UNR en dictarse entre dos Facultades: Ciencias Políticas y RRII, y la Facultad de Ciencias Económicas y Estadística. Su finalidad es la formación de graduados con capacidad para planificar, diseñar, programar, administrar y gestionar actividades y emprendimientos relacionados con los campos disciplinares vinculados al turismo desde una perspectiva interdisciplinar, así como brindar asistencia a entidades públicas y privadas, generando nuevos conocimientos vinculados a la actividad turística. \n\n\n["
-  },
-  {
-    "objectID": "LT.html#plan-de-estudio",
-    "href": "LT.html#plan-de-estudio",
-    "title": "Licenciatura en Turismo",
-    "section": "",
-    "text": "["
-  },
-  {
-    "objectID": "LEyCD.html",
-    "href": "LEyCD.html",
-    "title": "Licenciatura en Estadística",
-    "section": "",
-    "text": "Licenciatura en Estadística\nEl objeto de la profesión refiere a la obtención y el tratamiento de la información relativa a los más variados aspectos de la realidad. La misma comprende el diseño de metodologías para recoger, sintetizar y modelar información cuantitativa de fenómenos aleatorios diversos ofreciendo un método de juicio racional y científico. Asimismo nutre sus conocimientos a partir del trabajo interdisciplinario.\n\n\nLicenciatura en Ciencia de Datos\nEl graduado posee una formación básica en matemática, estadística, ciencia de datos y programación, que le permite colaborar en tareas de procesamiento y análisis primarios de datos. Es capaz de asistir a profesionales en la aplicación de métodos estadísticos inferenciales y modelos predictivos, y puede interpretar resultados y comunicar hallazgos de manera clara. Puede integrar equipos multidisciplinarios, participando en proyectos que persiguen la resolución de problemas en base al análisis de datos en diversas áreas, desde la industria hasta la investigación científica.\n\n\nPlanes de Estudio\nPlanes 2024"
   },
   {
     "objectID": "CP.html#planes-de-estudio",
@@ -96,5 +75,19 @@
     "title": "Licenciatura en Economía",
     "section": "",
     "text": "Plan 2019"
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Biblioteca Virtual",
+    "section": "",
+    "text": "Ciencias Económicas\n(Contador Público, Lic. en Administración y Lic. en Economía)\nPlan:\nlink:\n\n\nEstadística y Ciencia de Datos\nPlan:\nlink:\n\n\nTurismo\nPlan:\nlink:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "¿Qué es la Güemes?",
+    "section": "",
+    "text": "{width= “100%”, style= “border-radius: 10px;”}\nLa agrupacuión “Martín Miguel de Güemes” nace para transformar el status quo de nuestra facultad.\nCreemos que las Ciencias Económicas son Ciencias Sociales y, por lo tanto, inherentemente políticas. Lo que pasa dentro de la facultad tiene que ver con lo que pasa afuera, y como futuros profesionales no podemos ser ajenos a la realidad del país.\nMientras las agrupaciones tradicionales se limitan al asistencialismo, promesas de campaña y discusiones menores, nosotros creemos que hay problemas de fondo que necesitan respuesta:\n\nDiscusión estudiantil de los planes de estudio\nConcursos docentes sin participación del estudiantado ni representación efectiva de los mismos\nMaterias con horarios de cursada incompatibles con el trabajo\nFalta de herramientas prácticas para el ejercicio profesional\n\n\nDEFENDEMOS UNS UNIVERSIDAD PÚBLICA, GRATUITA Y DE CALIDAD COMO HERRAMIENTA FUNDAMENTAL DE MOVILIDAD SOCIAL, Y SOSTENEMOS LOS VALORES DE LA JUSTICIA SOCIAL, LA INDEPENDENCIA ECONÓMICA Y LA SOBERANÍA POLÍTICA.\nEl paso por la facultad es un hecho trascendental para el resto de la vida, por eso queremos que todos salgamos excelentemente formados y plenamente consientes del rol que será nuestro deber cumplir para con la sociedad."
   }
 ]
