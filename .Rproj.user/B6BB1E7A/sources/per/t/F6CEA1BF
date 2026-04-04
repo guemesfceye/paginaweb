@@ -3,7 +3,7 @@
     "path": "~/GitHub_Guemes/paginaweb/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "1097136908",
+    "hash": "3049814568",
     "contents": "",
     "dirty": false,
     "created": 1775279209552.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,10",
-        "scrollLine": "1"
+        "cursorPosition": "2,18",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1775280161,
+    "lastKnownWriteTime": 1775285476,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1775280161625,
+    "last_content_update": 1775285476775,
     "read_only": false,
     "read_only_alternatives": []
 }
