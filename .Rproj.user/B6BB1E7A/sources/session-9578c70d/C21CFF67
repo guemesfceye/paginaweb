@@ -3,7 +3,7 @@
     "path": "~/GitHub_Guemes/paginaweb/LEco.qmd",
     "project_path": "LEco.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "883875267",
     "contents": "",
     "dirty": false,
     "created": 1775332276395.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualModeLocation": "350:0",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "8,15",
+        "cursorPosition": "2,3",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1775332597,
+    "lastKnownWriteTime": 1775343286,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1775332597412,
+    "last_content_update": 1775343286045,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,4 +1,6 @@
-# Ciclo lectivo 2026-2027
+---
+title: "Ciclo lectivo 2026-2027"
+---
 
 ## Calendarios
 

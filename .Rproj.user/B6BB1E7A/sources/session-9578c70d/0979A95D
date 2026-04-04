@@ -3,7 +3,7 @@
     "path": "~/GitHub_Guemes/paginaweb/CP.qmd",
     "project_path": "CP.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2828974808",
     "contents": "",
     "dirty": false,
     "created": 1775332285393.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualModeLocation": "626:0",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "6,17",
+        "cursorPosition": "1,25",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1775332603,
+    "lastKnownWriteTime": 1775343092,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1775332603964,
+    "last_content_update": 1775343092380,
     "read_only": false,
     "read_only_alternatives": []
 }
