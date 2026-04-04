@@ -1,8 +1,0 @@
-[1,"==> quarto preview CP.qmd --to html --no-watch-inputs --no-browse\n\n"]
-[1,"pandoc \n  to: html\n  output-file: CP.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: es\n  editor: visual\n  theme:\n    - darkly\n    - custom.scss\n  fontsize: 1.5rem\n  linestretch: 1.5\n  linkcolor: brown\n  monobackground: brown\n  \n"]
-[1,"Output created: docs\\CP.html\n\nPreparing to preview\n"]
-[1,"\n"]
-[1,"Watching files for changes\nBrowse at http://localhost:5886/CP.html\nListening on http://127.0.0.1:5886/\n"]
-[1,"GET: /CP.html\n"]
-[1,"pandoc \n  to: html\n  output-file: facultad.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: es\n  editor: visual\n  theme:\n    - darkly\n    - custom.scss\n  fontsize: 1.5rem\n  linestretch: 1.5\n  linkcolor: brown\n  monobackground: brown\n  \n"]
-[1,"Output created: docs\\facultad.html\n\nWatching files for changes\n"]

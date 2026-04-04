@@ -11,7 +11,7 @@ website:
     logo: imagenes/Logo_Guemes.png
   
     left:
-      - href: index.qmd
+      - href: principal.qmd
         text: La Güemes
       - href: propuestas.qmd
         text: Propuestas
@@ -41,6 +41,13 @@ website:
 
       - icon: whatsapp
         href: https://wa.me/5493417198268
+        
+  page-footer: 
+    center: |
+      Agrupación Martín Miguel de Güemes - FCEYE, UNR
+      [WhatsApp](https://wa.me/5493417198268) 💙 [Instagram](https://www.instagram.com/guemes.fceye?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+      Página hecha por estudiantes de la facultad
+      con lo apendido en la facultad💙
 
 format:
   html:

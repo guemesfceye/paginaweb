@@ -1,9 +1,9 @@
 {
     "id": "38458959",
-    "path": "~/GitHub_Guemes/paginaweb/index.qmd",
-    "project_path": "index.qmd",
+    "path": "~/GitHub_Guemes/paginaweb/principal.qmd",
+    "project_path": "principal.qmd",
     "type": "quarto_markdown",
-    "hash": "1774320118",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1775279178231.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "1282:960.727294921875",
-        "cursorPosition": "51,61",
-        "scrollLine": "48"
+        "cursorPosition": "133,0",
+        "scrollLine": "124"
     },
     "folds": "",
-    "lastKnownWriteTime": 1775339473,
+    "lastKnownWriteTime": 1775340724,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1775339473559,
+    "last_content_update": 1775340724,
     "read_only": false,
     "read_only_alternatives": []
 }
