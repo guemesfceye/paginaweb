@@ -1,5 +1,9 @@
 ---
 title: "Lic. en Estadística y Ciencia de Datos"
+format:
+  html:
+    title-block-style: default
+    title-block-banner: false
 ---
 
 Ambas carreras comparten un Ciclo de Formación Técnica que permite obtener el título intermedio de Técnico/a Universitario en Estadística y Ciencia de Datos. Luego de esta tecnicatura, dependiendo del interés de los estudiantes, es posible realizar el Ciclo de Formación Específica de alguna de las dos carreras.

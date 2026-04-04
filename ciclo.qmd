@@ -1,5 +1,9 @@
 ---
 title: "Ciclo lectivo 2026-2027"
+format:
+  html:
+    title-block-style: default
+    title-block-banner: false
 ---
 
 ## Calendarios

@@ -1,5 +1,9 @@
 ---
 title: "Propuestas 2026"
+format:
+  html:
+    title-block-style: default
+    title-block-banner: false
 ---
 
 ## Propuestas Generales

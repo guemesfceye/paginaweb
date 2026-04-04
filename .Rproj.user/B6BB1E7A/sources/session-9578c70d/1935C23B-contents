@@ -137,6 +137,12 @@ body::after {
   }
 }
 
-
+/* Fodo del pie de página transparente */
+footer,
+.page-footer,
+.nav-footer {
+  background-color: transparent !important;
+  border: none !important;
+}
 
 

@@ -1,5 +1,9 @@
 ---
 title: "Agrupación Martín Miguel de Güemes, FCEYE"
+format:
+  html:
+    title-block-style: default
+    title-block-banner: false
 ---
 
 # ¿Quienes somos?
