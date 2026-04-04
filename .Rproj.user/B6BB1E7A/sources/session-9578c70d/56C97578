@@ -1,0 +1,31 @@
+{
+    "id": "56C97578",
+    "path": "~/GitHub_Guemes/paginaweb/propuestas.qmd",
+    "project_path": "propuestas.qmd",
+    "type": "quarto_markdown",
+    "hash": "3521780845",
+    "contents": "",
+    "dirty": false,
+    "created": 1775339068351.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "1592:621.8181762695312",
+        "cursorPosition": "47,128",
+        "scrollLine": "34"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1775339466,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1775339466725,
+    "read_only": false,
+    "read_only_alternatives": []
+}
