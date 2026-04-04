@@ -25,6 +25,10 @@ website:
           text: Lic. en Estadística y Cs. de Datos
         - href: LT.qmd
           text: Lic. en Turismo
+      - href: facultad.qmd
+        text: Facultad
+      - href: ciclo.qmd
+        text: Ciclo 2026-2027
 
     tools:
       - icon: instagram
