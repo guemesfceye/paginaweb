@@ -1,0 +1,187 @@
+---
+title: "Machete Quarto Web"
+format: html
+editor: visual
+---
+
+# 🧾 Guía rápida para trabajar con Quarto (Website)
+
+------------------------------------------------------------------------
+
+# 🏠 1. Estructura básica
+
+-   `index.qmd` → página principal
+-   `_quarto.yml` → configuración del sitio
+-   Carpetas recomendadas:
+
+```         
+/images
+/pdf
+/styles.css
+```
+
+------------------------------------------------------------------------
+
+# ✏️ 2. Texto
+
+**negrita**\
+*cursiva*\
+***negrita y cursiva***\
+~~tachado~~\
+<u>subrayado</u>
+
+------------------------------------------------------------------------
+
+# 🔠 3. Títulos
+
+# Título 1
+
+## Título 2
+
+### Título 3
+
+------------------------------------------------------------------------
+
+# 📋 4. Listas
+
+-   item 1
+-   item 2
+    -   subitem
+
+1.  Primero
+2.  Segundo
+
+------------------------------------------------------------------------
+
+# 💬 5. Citas
+
+> Esto es una cita
+
+------------------------------------------------------------------------
+
+# 💻 6. Código
+
+Inline: `codigo`
+
+Bloque:
+
+``` r
+3 + 3
+```
+
+------------------------------------------------------------------------
+
+# 🔗 7. Links
+
+[Link normal](https://google.com)
+
+### PDF
+
+[Descargar PDF](pdf/archivo.pdf)
+
+### Link interno
+
+## Seccion-ejemplo {#seccion-ejemplo}
+
+[Ir a sección](#seccion-ejemplo)
+
+------------------------------------------------------------------------
+
+# 🖼️ 8. Imágenes
+
+![](images/foto1.png)
+
+### Tamaño
+
+![](images/foto1.png){width="50%"}
+
+### Posición
+
+![](images/foto1.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+# 🧱 9. Layout (columnas)
+
+::::: columns
+::: column
+Texto izquierda
+:::
+
+::: column
+Texto derecha
+:::
+:::::
+
+------------------------------------------------------------------------
+
+# ⚠️ 10. Notas
+
+::: note
+Nota importante
+:::
+
+::: warning
+Cuidado
+:::
+
+------------------------------------------------------------------------
+
+# 🌐 11. Actualizar la web
+
+## Pasos
+
+1.  Modificar archivos `.qmd`
+2.  Guardar cambios
+3.  Ejecutar:
+
+```         
+quarto render
+```
+
+4.  Subir cambios a GitHub:
+
+```         
+git add .
+git commit -m "update"
+git push
+```
+
+------------------------------------------------------------------------
+
+# 📱 12. Diseño responsive
+
+En `styles.css`:
+
+``` css
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
+```
+
+------------------------------------------------------------------------
+
+# 🚨 13. Errores comunes
+
+-   Usar mal `---`
+-   Rutas incorrectas de imágenes
+-   Usar `{r}` innecesariamente
+-   Typos (`width`, `right`)
+
+------------------------------------------------------------------------
+
+# ✅ Checklist rápido
+
+✔ index.qmd existe\
+✔ imágenes en carpeta correcta\
+✔ rutas relativas bien escritas\
+✔ render actualizado\
+✔ cambios subidos a GitHub
+
+------------------------------------------------------------------------
+
+# 🚀 Tip final
+
+Usar siempre: - ```` ``` ```` → código - `:::` → estructura - `---` → separar (con cuidado)

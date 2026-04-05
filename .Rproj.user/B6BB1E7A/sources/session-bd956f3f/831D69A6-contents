@@ -1,0 +1,263 @@
+---
+title: "Guia_quarto"
+format: html
+editor: visual
+---
+
+# Guía para modificar archivos de Quarto para la página web
+
+## Texto
+
+-   Formato de texto
+
+```markdown
+
+**negrita**
+*cursiva*
+***negrita y cursiva***
+~~tachado~~
+<u>subrayado</u>
+
+```
+
+-   Títulos
+
+--- 
+
+# Título 1
+## Título 2
+### Título 3
+#### Título 4
+
+---
+
+-   Ítems
+
+---
+ Viñetas
+  - item 1
+  - item 2
+   - subitem
+
+ Numeradas
+  1. Primero
+  2. Segundo
+---
+
+Para cerrarlos hacer doble enter.
+
+-   Citas
+
+---
+> Esto es una cita 
+
+---
+
+-   Código
+
+---
+`código en linea`
+---
+
+Sirve para resaltar una `palabra`o `código`
+
+-   Bloque
+
+---
+```r
+3 + 3
+```
+---
+
+---
+```{r}
+3 + 3
+```
+---
+
+
+## Links
+
+-   Link normal
+
+---
+# [Texto del link](https://google.com)
+---
+
+-   Links a PDF(descarga)
+
+---
+[Descargar PDF](pdf/archivo.pdf)
+---
+
+Asegurarse de tener el PDF dentro del proyecto
+
+-   Links internos Se crea un título
+
+---
+## Sección importante
+---
+
+Después se enlaza
+
+---
+[Ir a sección](#sección-importante)
+---
+
+## Tablas
+
+---
+#| warning: true
+| Nombre | Edad |
+|--------|------|
+| Ana    | 20   |
+| Juan   | 25   |
+---
+
+## Imágenes
+
+### Como agregar una imágen
+
+-   Paso 1: Guardar la imagen
+
+---
+GUEMES-FCEYE/ 
+ │
+ ├── images/
+ │     foto1. png
+ 
+---
+
+-   Paso 2: Insertarla en un qmd (en modo Source) Forma básica
+
+---
+![](images/foto1.png)
+---
+
+### Cómo modificarla
+
+#### Tamaño
+
+-   Ancho específico
+
+---
+![](images/foto1.png){width=50%}
+---
+
+(Ocupa la mitad del espacio)
+
+-   Ancho completo
+
+---
+![](images/foto1.png){width=100%}
+---
+
+(ocupa todo el ancho del texto)
+
+-   Tamaño en pixeles
+
+---
+![](images/foto1.png){width=300px}
+---
+
+#### Posición
+
+-   Centrada
+
+---
+![](images/foto1.png){fig-align="center"}
+---
+
+-   A la izquierda
+
+---
+![](images/foto1.png){fig-align="left"}
+---
+
+-   A la derecha
+
+---
+![](images/foto1.png){fig-align="right"}
+---
+
+#### Texto + Imagen a un lado
+
+-   Imágen a la derecha
+
+---
+::: columns
+
+::: column
+Texto acá (izquierda)
+:::
+
+::: column
+![](images/foto1.png)
+:::
+
+:::
+---
+
+-   Imágen a la izquierda
+
+---
+::: columns
+
+::: column
+![](images/foto1.png)
+:::
+
+::: column
+Texto acá (derecha)
+:::
+
+:::
+---
+
+-   Controlar proporción de columnas
+
+---
+::: columns
+
+::: column width="70%"
+Texto más ancho
+:::
+
+::: column width="30%"
+![](images/foto1.png)
+:::
+
+:::
+---
+
+-   Agregar título
+
+---
+![](images/foto1.png){fig-cap="Descripción de la imagen"}
+---
+
+-   Más control
+
+---
+![](images/foto1.png){style="border-radius: 10px;"}
+---
+
+## Extras
+
+-   Separador
+
+---
+
+-   Notas/Alertas
+
+---
+::: note
+Esto es una nota
+:::
+---
+
+---
+::: warning
+Cuidado con esto
+:::
+---
