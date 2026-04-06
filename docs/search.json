@@ -25,7 +25,7 @@
     "href": "LEyCD.html",
     "title": "Lic. en Estadística y Ciencia de Datos",
     "section": "",
-    "text": "Ambas carreras comparten un Ciclo de Formación Técnica que permite obtener el título intermedio de Técnico/a Universitario en Estadística y Ciencia de Datos. Luego de esta tecnicatura, dependiendo del interés de los estudiantes, es posible realizar el Ciclo de Formación Específica de alguna de las dos carreras.\n\nLicenciatura en Estadística\nEl objeto de la profesión refiere a la obtención y el tratamiento de la información relativa a los más variados aspectos de la realidad. La misma comprende el diseño de metodologías para recoger, sintetizar y modelar información cuantitativa de fenómenos aleatorios diversos ofreciendo un método de juicio racional y científico. Asimismo nutre sus conocimientos a partir del trabajo interdisciplinario.\n\n\nLicenciatura en Ciencia de Datos\nEl graduado posee una formación básica en matemática, estadística, ciencia de datos y programación, que le permite colaborar en tareas de procesamiento y análisis primarios de datos. Es capaz de asistir a profesionales en la aplicación de métodos estadísticos inferenciales y modelos predictivos, y puede interpretar resultados y comunicar hallazgos de manera clara. Puede integrar equipos multidisciplinarios, participando en proyectos que persiguen la resolución de problemas en base al análisis de datos en diversas áreas, desde la industria hasta la investigación científica.\n\n\nPlanes de Estudio\n\nDescargar aquí"
+    "text": "Ambas carreras comparten un Ciclo de Formación Técnica que permite obtener el título intermedio de Técnico/a Universitario en Estadística y Ciencia de Datos. Luego de esta tecnicatura, dependiendo del interés de los estudiantes, es posible realizar el Ciclo de Formación Específica de alguna de las dos carreras.\n\nLicenciatura en Estadística\nEl objeto de la profesión refiere a la obtención y el tratamiento de la información relativa a los más variados aspectos de la realidad. La misma comprende el diseño de metodologías para recoger, sintetizar y modelar información cuantitativa de fenómenos aleatorios diversos ofreciendo un método de juicio racional y científico. Asimismo nutre sus conocimientos a partir del trabajo interdisciplinario.\n\n\nLicenciatura en Ciencia de Datos\nEl graduado posee una formación básica en matemática, estadística, ciencia de datos y programación, que le permite colaborar en tareas de procesamiento y análisis primarios de datos. Es capaz de asistir a profesionales en la aplicación de métodos estadísticos inferenciales y modelos predictivos, y puede interpretar resultados y comunicar hallazgos de manera clara. Puede integrar equipos multidisciplinarios, participando en proyectos que persiguen la resolución de problemas en base al análisis de datos en diversas áreas, desde la industria hasta la investigación científica.\n\n\nPlanes de Estudio\n\nDescargar aquí\n\n\nBilbioteca Virtual\nBiblioteca Virtual - Est./Cs. de Datos"
   },
   {
     "objectID": "LAdm.html",
@@ -40,6 +40,13 @@
     "title": "Licenciatura en Administración",
     "section": "Planes de Estudio",
     "text": "Planes de Estudio\n\nDescargar aquí"
+  },
+  {
+    "objectID": "LAdm.html#biblioteca-virtual",
+    "href": "LAdm.html#biblioteca-virtual",
+    "title": "Licenciatura en Administración",
+    "section": "Biblioteca Virtual",
+    "text": "Biblioteca Virtual\nBiblioteca virtual - Ciencias Económicas"
   },
   {
     "objectID": "facultad.html",
@@ -75,6 +82,13 @@
     "title": "Contador Público",
     "section": "Plan de estudio",
     "text": "Plan de estudio\n\nDescargar aquí"
+  },
+  {
+    "objectID": "CP.html#biblioteca-virtual",
+    "href": "CP.html#biblioteca-virtual",
+    "title": "Contador Público",
+    "section": "Biblioteca Virtual",
+    "text": "Biblioteca Virtual\nBiblioteca virtual - Ciencias Económicas"
   },
   {
     "objectID": "index.html",
@@ -126,10 +140,24 @@
     "text": "Planes de Estudio\n\nDescargar aquí"
   },
   {
+    "objectID": "LEco.html#biblioteca-virtual",
+    "href": "LEco.html#biblioteca-virtual",
+    "title": "Licenciatura en Economía",
+    "section": "Biblioteca Virtual",
+    "text": "Biblioteca Virtual\nBiblioteca virtual - Ciencias Económicas"
+  },
+  {
     "objectID": "LT.html",
     "href": "LT.html",
     "title": "Licenciatura en Turismo",
     "section": "",
     "text": "La Licenciatura en Turismo es la primera carrera de la UNR en dictarse entre dos Facultades: Ciencias Políticas y RRII, y la Facultad de Ciencias Económicas y Estadística. Su finalidad es la formación de graduados con capacidad para planificar, diseñar, programar, administrar y gestionar actividades y emprendimientos relacionados con los campos disciplinares vinculados al turismo desde una perspectiva interdisciplinar, así como brindar asistencia a entidades públicas y privadas, generando nuevos conocimientos vinculados a la actividad turística."
+  },
+  {
+    "objectID": "LT.html#bilbioteca-virtual",
+    "href": "LT.html#bilbioteca-virtual",
+    "title": "Licenciatura en Turismo",
+    "section": "Bilbioteca Virtual",
+    "text": "Bilbioteca Virtual\nBiblioteca Virtual"
   }
 ]

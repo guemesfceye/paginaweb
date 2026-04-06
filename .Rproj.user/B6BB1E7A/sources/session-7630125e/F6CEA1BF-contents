@@ -1,0 +1,67 @@
+project:
+  type: website
+  output-dir: docs
+  
+lang: es
+
+website:
+  title: ""
+  
+  navbar:
+    logo: imagenes/Logo_Guemes.png
+  
+    left:
+      - href: index.qmd
+        text: La Güemes
+      - href: propuestas.qmd
+        text: Propuestas
+      - text: Carreras
+        menu:
+        - href: CP.qmd
+          text: Contador Público
+        - href: LAdm.qmd
+          text: Lic. en Administración
+        - href: LEco.qmd
+          text: Lic. en Economía
+        - href: LEyCD.qmd
+          text: Lic. en Estadística y Cs. de Datos
+        - href: LT.qmd
+          text: Lic. en Turismo
+      - href: facultad.qmd
+        text: Facultad
+      - href: ciclo.qmd
+        text: Ciclo 2026-2027
+
+    tools:
+      - icon: instagram
+        href: https://www.instagram.com/guemes.fceye?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+
+      - icon: envelope
+        href: "https://mail.google.com/mail/?view=cm&to=guemeseconomicasunr@gmail.com"
+
+      - icon: whatsapp
+        href: https://wa.me/5493417198268
+        
+  page-footer: 
+    center: |
+      Agrupación Martín Miguel de Güemes - FCEYE, UNR 
+      [WhatsApp](https://wa.me/5493417198268) 💙 [Instagram](https://www.instagram.com/guemes.fceye?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+      
+      Página hecha por estudiantes de la facultad,
+      a partir de lo aprendido en la facultad💙
+
+format:
+  html:
+    theme:
+      - darkly
+      - custom.scss
+    fontsize: "1.5rem"
+    linestretch: 1.5
+    linkcolor: brown
+    monobackground: brown
+    
+    css: styles.css
+    toc: true
+
+editor: visual
+
